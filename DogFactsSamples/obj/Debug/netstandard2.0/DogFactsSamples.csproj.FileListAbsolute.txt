@@ -1,0 +1,15 @@
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\bin\Debug\netstandard2.0\DogFactsSamples.deps.json
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\bin\Debug\netstandard2.0\DogFactsSamples.dll
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\bin\Debug\netstandard2.0\DogFactsSamples.pdb
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.csproj.AssemblyReference.cache
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.AssemblyInfoInputs.cache
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.AssemblyInfo.cs
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.csproj.CoreCompileInputs.cache
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.dll
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\refint\DogFactsSamples.dll
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\DogFactsSamples.pdb
+C:\dev\DogFactsSamplesDatabase\DogFactsSamples\obj\Debug\netstandard2.0\ref\DogFactsSamples.dll
